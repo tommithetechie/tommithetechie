@@ -36,3 +36,6 @@ If something looks broken, it probably is. Open an issue and roast me (nicely, p
 
 ### Build weird stuff. Learn out loud. Stumble forward.
 ### Software comes and goes, but hardware is forever.
+
+- I totally used AI to write this and push this because I wanted to see if it would do it.
+- I read it, it looks good, I'm rolling with it!
